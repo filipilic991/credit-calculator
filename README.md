@@ -1,2 +1,2 @@
 # credit-calculator
-Intermediate level project simulating credit calculator
+Intermediate level project which uses command-line arguments (argparse lib)
